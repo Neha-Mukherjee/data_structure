@@ -20,7 +20,7 @@ public class FirstUniqueCharacter {
                 return ch;
             }
         }
-
+//If no unique character exists, we return this special null character as an indicator that no character was found
         return '\0';
     }
 
